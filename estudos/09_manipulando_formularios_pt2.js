@@ -24,8 +24,6 @@ class App extends Component{
         this.setState({error: 'Ops! parece que está faltando algo'})
       }
 
-      
-
       e.preventDefault();
     }
 
